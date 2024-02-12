@@ -1,0 +1,6 @@
+comandos: 
+cria o projeto
+npx create-expo-app --template
+
+inicia o app
+npx expo 
